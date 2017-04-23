@@ -8,7 +8,7 @@ XStatic has some minimal support code for working with the XStatic-* packages.
 
 Docs: http://readthedocs.org/docs/xstatic/en/latest/
 
-Repository: https://bitbucket.org/thomaswaldmann/xstatic
+Repository: https://github.com/python-xstatic/xstatic
 
 Licenses:
 
